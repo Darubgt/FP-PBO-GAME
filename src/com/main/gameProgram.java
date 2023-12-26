@@ -31,18 +31,3 @@ public class gameProgram {
 		});
 	}
 }
-
-/*
- * Todo Lists :::
- * -Music and sound effect BIG DICK PROGRESS
- * -animations GIGA BIG DICK PROGRESS
- * -additional stage background DONE
- * - deck building panel DONE
- * - progression panel BIG DICK PROGRESS
- * - decks and used graphics prolly add sqares honestly
- * main menu panel (Everything) DONE
- * play DONE
- * background DONE
- * quit DONE
- * optionally a scoreboard HOW ABOUT NO
- */
